@@ -1,0 +1,13 @@
+
+For Backend: 
+
+cd: backend
+npm i 
+"npm run dev" to start the backend server
+
+
+For Frontend: 
+
+cd Frontend
+npm i
+"npm run dev" to start frontend
